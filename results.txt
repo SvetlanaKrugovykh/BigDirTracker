@@ -1,0 +1,23 @@
+Top 20 Largest Directories:
+1. F:\ - 100.35 GB
+2. F:\98Backup - 52.48 GB
+3. F:\!!!!!!!!!KINO - 16.54 GB
+4. F:\1c_Bases - 12.84 GB
+5. F:\98Backup\gns1cAndmedoc - 10.69 GB
+6. F:\1c_Bases\ЧабанИрина - 10.45 GB
+7. F:\tmplts - 6.37 GB
+8. F:\98Backup\GNS - 5.12 GB
+9. F:\!!!!!!!!!KINO\Microsoft_Windows _SQL_Server_2019 - 4.37 GB
+10. F:\EDT - 4.09 GB
+11. F:\EDT\components - 4.09 GB
+12. F:\EDT\components\1c-edt-2021.2.12+2-x86_64 - 4.04 GB
+13. F:\!!!!!!!!!KINO\ratiborus_win_pe - 3.88 GB
+14. F:\tmplts\1c - 3.64 GB
+15. F:\Temp - 3.59 GB
+16. F:\!!!!!!!!!KINO\Microsoft Office 2019 Professional Plus - Standard + Visio + Project 16.0.10827.20138 (2018.10) RePack by KpoJIuK - 2.68 GB
+17. F:\EDT\components\1c-edt-2021.2.12+2-x86_64\plugins - 2.49 GB
+18. F:\tmplts\1c\Enterprise20\2_5_5_94 - 1.85 GB
+19. F:\tmplts\1c\Enterprise20 - 1.85 GB
+20. F:\tmplts\1c\ARAutomation20\2_4_13_136 - 1.78 GB
+
+Execution Time: 1.92 seconds
